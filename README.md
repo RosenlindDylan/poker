@@ -1,1 +1,1 @@
-# poker
+Tabluates and ranks all c(52, 5) poker hands from a deck
